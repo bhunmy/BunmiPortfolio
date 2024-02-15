@@ -45,9 +45,13 @@ The following technologies were used to develop my portfolio website.
    - Repository: https://github.com/bhunmy/ConsoleFinances
 
 2. Project Name 2: Bio page
-   - Description: Abrief description of myself on a web page
-
+   - Description: A brief description of myself on a web page
    - Repository: https://github.com/bhunmy/BioBhunm.git
+
+3.  Project Name 3: Password Generator
+   - Description: This is a simple web-based password generator that allows users to specify the length of the password and select the types of characters to include. The generated password is displayed either in an alert or on the web page itself.
+    -Repository: https://bhunmy.github.io/Password-Generator/
+
 
 ## Skills
 
