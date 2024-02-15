@@ -27,7 +27,8 @@ This portfolio serves as a platform to demonstrate my proficiency as a web devel
 
 ![alt text](image-4.png).
 ![alt text](image-5.png)
-
+![alt text](image-4.png)
+![alt text](image-5.png)
 ## Technologies Used
 
 The following technologies were used to develop my portfolio website.
